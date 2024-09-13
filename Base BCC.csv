@@ -1,0 +1,89 @@
+nome,genero,datanascimento,altura,peso,nacionalidade,estadonascimento,modalidade,ouro,prata,bronze
+Ana Carolina Vieira ,Feminino,2001-10-24,1.70,63,brasileira,RJ,Natação ,,,
+Beatriz Dizotti,Feminino,2000-04-13,1.67,59,brasileira,SP,Natação ,,,
+Gabrielle Roncatto ,Feminino,1998-07-19,1.61,60,brasileira,SP,Natação ,,,
+Giovana Reis ,Feminino,2004-04-14,1.71,64,brasileira,SP,Natação ,,,
+Maria Fernanda Costa ,Feminino,2002-09-05,1.80,68,brasileira,RJ,Natação ,,,
+Maria Paula Heitmann ,Feminino,1999-01-31,"1,63",60,brasileira,MG,Natação ,,,
+Stephanie Balduccini,Feminino,2004-09-20,1.71,61,brasileira,SP,Natação ,,,
+Breno Correia ,Masculino,2004-09-20,1.97,74,brasileira,BA,Natação ,,,
+Eduardo Moraes ,Masculino,2001-07-02,1.86,80,brasileira,MG,Natação ,,,
+Fernando Scheffer ,Masculino,1998-04-06,1.87,90,brasileira,RS,Natação ,,,1
+Gabriel Santos,Masculino,1996-05-04,1.84,80,brasileira,SP,Natação ,,,
+Guilherme Basseto,Masculino,1997-03-12,1.83,80,brasileira,SP,Natação ,,,
+Guilherme Caribé ,Masculino,2003-01-28,1.95,78,brasileira,BA,Natação ,,,
+Guilherme Costa “Cachorrão” ,Masculino,1998-11-01,1.83,82,brasileira,RJ,Natação ,,,
+Kayky Mota ,Masculino,1999-04-22,1.84,81,brasileira,SP,Natação ,,,
+Marcelo Chierighini ,Masculino,1991-01-15,1.91,92,brasileira,SP,Natação ,,,
+Murilo Sartori ,Masculino,2002-06-10,1.80,90,brasileira,SP,Natação ,,,
+Nicolas Albiero ,Masculino,1999-07-08,1.83,80,americano,SDF,Natação ,,,
+Ana Patrícia,Feminino,1997-09-29,1.94,84,brasileira,MG,Vôlei de praia,1,,
+Duda,Feminino,1998-08-01,1.80,70,brasileira,SE,Vôlei de praia,1,,
+Carol Solberg,Feminino,1987-08-06,1.78,67,brasileira,RJ,Vôlei de praia,,,
+Bárbara,Feminino,1987-08-03,1.78,67,brasileira,RJ,Vôlei de praia,,,
+André,Masculino,1989-08-30,1.88,82,brasileira,RJ,Vôlei de praia,,,
+George,Masculino,1996-09-12,1.90,87,brasileira,PB,Vôlei de praia,,,
+Arthur,Masculino,1997-09-02,2.00,89,brasileira,SP,Vôlei de praia,,,
+Evandro,Masculino,1990-07-17,1.65,105,brasileira,RJ,Vôlei de praia,,,
+Dora Varella (park),Feminino,2001-07-31,1.65,55,brasileira,SP,Skate,,,
+Gabriela Mazetto (street),Feminino,2000-10-06,1.65,54,brasileira,SP,Skate,,,
+Isadora Pacheco (park),Feminino,2005-05-29,1.67,59,brasileira,SC,Skate,,,
+Pâmela Rosa (street),Feminino,1999-01-19,1.63,56,brasileira,SP,Skate,,,
+Raicca Ventura (park),Feminino,2007-03-08,1.59,51,brasileira,SP,Skate,,,
+Rayssa Leal “Fadinha” (street),Feminino,2008-01-04,1.60,43,brasileira,MA,Skate,,,1
+Augusto Akio “Japinha” (park),Masculino,2000-12-12,1.72,68,brasileira,PR,Skate,,,1
+Felipe Gustavo (street),Masculino,1997-02-10,1.75,72,brasileira,DF,Skate,,,
+Giovanni Vianna (street),Masculino,2001-01-26,1.80,68,brasileira,SP,Skate,,,1
+Kelvin Hoefler (street),Masculino,1994-02-10,1.79,77,brasileira,SP,Skate,,,
+Luigi Cini (park),Masculino,2002-06-20,1.74,65,brasileira,PR,Skate,,,
+Pedro Barros (park),Masculino,1995-03-16,1.80,75,brasileira,SC,Skate,,,
+Ana Cristina,Feminino,1982-10-01,1.73,70,brasileira,MG,Volei,,,1
+Carol,Feminino,1981-07-27,1.92,87,brasileira,SP,Volei,,,1
+Diana,Feminino,1999-02-22,1.94,69,brasileira,SP,Volei,,,1
+Gabi,Feminino,1994-05-19,1.80,59,brasileira,MG,Volei,,,1
+Julia Bergmann,Feminino,2001-02-21,1.91,83,alemã,Munique,Volei,,,1
+Lorenne,Feminino,1996-01-08,1.87,72,brasileira,MG,Volei,,,1
+Macris,Feminino,1986-01-08,1.88,73,brasileira,MG,Volei,,,1
+Nyeme,Feminino,1989-03-03,1.78,60,brasileira,,Volei,,,1
+Roberta,Feminino,1990-04-28,1.85,68,brasileira,,Volei,,,1
+Rosamaria,Feminino,1994-04-09,1.85,75,brasileira,SC,Volei,,,1
+Tainara,Feminino,2000-03-09,1.90,81,brasileira,SP,Volei,,,1
+Thaisa,Feminino,1987-05-15,1.97,87,brasileira,RJ,Volei,,,1
+Adriano,Masculino,2002-02-06,"2,01",81,brasileira,MG,Volei,,,
+Alan,Masculino,1994-03-21,2.00,98,brasileira,RJ,Volei,,,
+Bruninho,Masculino,1986-07-02,1.90,76,brasileira,RJ,Volei,,,
+Cachopa,Masculino,1996-01-13,1.85,75,brasileira,RS,Volei,,,
+Darlan,Masculino,2001-08-22,1.93,97,brasileira,SP,Volei,,,
+Flávio,Masculino,1993-04-22,"2,00",104,brasileira,MG,Volei,,,
+Isac,Masculino,1990-12-13,"2,08",98,brasileira,MG,Volei,,,
+Leal,Masculino,1988-08-31,"2,01",98,brasileira,-,Volei,,,
+Lucão,Masculino,1986-03-06,"2,09",100,brasileira,SP,Volei,,,
+Lucarelli,Masculino,1992-02-14,1.96,85,brasileira,MG,Volei,,,
+Lukas Bergmann,Masculino,1995-07-19,1.92,82,brasileira,SC,Volei,,,
+Thales,Masculino,1989-03-27,1.85,75,brasileira,PR,Volei,,,
+Natasha Ferreira ,Feminino,1999-09-10,1.55,48,brasileira,RJ,Judô,,,
+Larissa Pimenta ,Feminino,1999-03-01,1.60,52,brasileira,SP,Judô,,,1
+Rafaela Silva ,Feminino,1992-04-24,1.69,57,brasileira,RJ,Judô,,,1
+Ketleyn Quadros ,Feminino,1987-10-01,1.70,63,brasileira,DF,Judô,,,1
+Mayra Aguiar ,Feminino,1991-08-03,1.78,78,brasileira,RS,Judô,,,
+Beatriz Souza ,Feminino,1998-05-20,1.82,150,brasileira,SP,Judô,1,,1
+Michel Augusto,Masculino,1994-06-20,1.70,66,brasileira,SP,Judô,,,
+William Lima ,Masculino,1999-02-21,1.65,66,brasileira,SP,Judô,,1,1
+Daniel Cargnin ,Masculino,1997-12-20,1.70,73,brasileira,RS,Judô,,,1
+Guilherme Schimidt ,Masculino,2000-10-31,1.80,81,brasileira,DF,Judô,,,1
+Rafael Macedo,Masculino,1994-09-17,1.84,90,brasileira,SP,Judô,,,1
+Leonardo Gonçalves,Masculino,1992-02-22,1.90,100,brasileira,MG,Judô,,,1
+Rafael Silva ,Masculino,1987-05-11,"2,03",160,brasileira,MS,Judô,,,1
+Flávia Saraiva,Feminino,1999-09-30,1.45,36,brasileira,RJ,Ginastica Artistica,,,1
+Jade Barbosa,Feminino,1991-07-01,1.51,46,brasileira,RJ,Ginastica Artistica,,,1
+Júlia Soares,Feminino,2005-07-23,1.54,50,brasileira,SP,Ginastica Artistica,,,1
+Lorrane Oliveira,Feminino,1998-04-13,1.52,44,brasileira,RJ,Ginastica Artistica,,,1
+Rebeca Andrade,Feminino,1999-05-08,1.57,45,brasileira,SP,Ginastica Artistica,1,2,1
+Arthur Nory,Masculino,1993-09-18,1.69,67,brasileira,SP,Ginastica Artistica,,,
+Diogo Soares,Masculino,2002-02-12,1.67,63,brasileira,SP,Ginastica Artistica,,,
+Bárbara Domingos ,Feminino,2000-09-02,1.65,50,brasileira,PR,Ginastica rítmica,,,
+Deborah Medrado,Feminino,2002-07-11,1.68,52,brasileira,BA,Ginastica rítmica,,,
+Maria Eduarda Arakaki ,Feminino,2005-04-28,1.65,50,brasileira,SP,Ginastica rítmica,,,
+Nicole Pírcio ,Feminino,2004-10-10,1.65,50,brasileira,RJ,Ginastica rítmica,,,
+Sofia Madeira ,Feminino,2005-11-08,1.68,50,brasileira,DF,Ginastica rítmica,,,
+Victoria Borges ,Feminino,2003-12-14,1.70,52,brasileira,SP,Ginastica rítmica,,,
